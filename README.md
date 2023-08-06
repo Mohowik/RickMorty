@@ -1,2 +1,15 @@
-# RickMorty
-Rick and Morty pet-project
+# Архитектура и библиотеки
+
+ • MVVM-C
+
+ • DI (native)
+
+ • SnapKit
+
+ • Realm
+
+ • RxSwift
+
+ • Kingfisher
+
+ • Moya
